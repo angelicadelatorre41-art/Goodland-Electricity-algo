@@ -1,1 +1,1 @@
-# Goodland-Electricity-algo
+# Goodland-Electricity-algo For each uncovered city, greedily place a pylon at the furthest city within reach to cover as many cities as possible. If no city within range has a pylon, it’s impossible to cover the row, so return -1. After placing a pylon, skip all cities covered by it and repeat until all are covered.
